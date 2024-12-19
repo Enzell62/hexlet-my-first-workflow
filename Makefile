@@ -1,0 +1,2 @@
+sayHello:
+	echo "Hello, World!"
